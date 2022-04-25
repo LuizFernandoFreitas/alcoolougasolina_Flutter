@@ -6,4 +6,12 @@
 <br>
 <a href="https://github.com/LuizFernandoFreitas/alcoolougasolina_Flutter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LuizFernandoFreitas/alcoolougasolina_Flutter"></a>
 <br>
-#alcoolougasolina_Flutter
+<hr>
+<p>O foco do aplicativo é você informar o preço de alcool ou gasolina, de acordo com o preço de cada uma, ele define se temos que usar alcool ou gasolina. :red_car::blue_car:</p>
+<p>
+  ## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Validar qual opção compensa mais, alcool ou gasolina
+</p>
+<hr>
+<p>#alcoolougasolina_Flutter</p>
